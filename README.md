@@ -6,6 +6,8 @@
 
 One original line of up to 200 characters naming a hilariously useless superpower, written fresh for the make.fun bounty “One Line, Zero Use”.
 
+> My superpower is knowing which sock the dryer will eat — always five seconds after I've put the other one on.
+
 ## Run it
 
 ```sh
